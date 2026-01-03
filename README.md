@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sia 👋
 
-<!--
-**Siaang/Siaang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a fourth-year Computer Science student with a strong focus on game development and interactive systems.  
+
+🎮 Computer Science student specializing in **Game Development**.  
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages**
+- C#
+- Python 3
+- GDScript
+- JavaScript
+- HTML / CSS
+
+**Game Development**
+- Unity
+- Godot 
+
+**Other Tools**
+- Git & GitHub
+- Autodesk Maya
+- Aseprite
+- Figma
+- VSCode
+
+---
+
+## 📌 Featured Projects
+
+## Finished
+
+### Commissioned
+---
+
+## 📫 Let's Connect
+- Email: `krishnareformina@gmail.com`
+- Discord: `s_ia`
+
