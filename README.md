@@ -1,13 +1,8 @@
-# Hi, I'm Sia 👋
-
-
-## 👩‍💻 About Me
+# Hi, I'm Sia 
 
 I'm a fourth-year Computer Science student with a strong focus on game development and interactive systems.  
 
 🎮 Computer Science student specializing in **Game Development**.  
-
----
 
 ## 🧠 Skills & Tools
 
@@ -29,14 +24,11 @@ I'm a fourth-year Computer Science student with a strong focus on game developme
 - Figma
 - VSCode
 
----
-
 ## 📌 Featured Projects
 
 ## Finished
 
 ### Commissioned
----
 
 ## 📫 Let's Connect
 - Email: `krishnareformina@gmail.com`
