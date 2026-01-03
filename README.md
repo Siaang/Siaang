@@ -4,7 +4,7 @@ I'm a fourth-year Computer Science student with a strong focus on game developme
 
 🎮 Computer Science student specializing in **Game Development**.  
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 **Languages**
 - C#
@@ -24,13 +24,13 @@ I'm a fourth-year Computer Science student with a strong focus on game developme
 - Figma
 - VSCode
 
-## 📌 Featured Projects
+## Featured Projects
 
 ## Finished
 
 ### Commissioned
 
-## 📫 Let's Connect
+## Let's Connect
 - Email: `krishnareformina@gmail.com`
 - Discord: `s_ia`
 
